@@ -8,7 +8,7 @@ Here's my blog @ <a href="https://kaibersec.com" target="_blank">Kaibersec.com</
 
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Khadinxc&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=tokyonight&border_color=45475a"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadinxc&layout=compact&title_color=cba6f7&theme=tokyonight&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="./profile/stats.svg"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="./profile/top-langs.svg"/></a>
 </div>
-
+<img alt="Pinned" src="./profile/pin-readme-tools-github-readme-stats.svg"/>
