@@ -1,6 +1,6 @@
 ### G'day Kaden here
 
-I'm a security engineer specialising in detection engineering and platform engineering.
+I'm a security engineer specialising in detection engineering and platform engineering based in the land down under.
 
 I do cyber and computer sciencey stuff in my spare time.
 
