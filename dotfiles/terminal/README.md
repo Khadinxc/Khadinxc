@@ -1,0 +1,1 @@
+GUIDs for profiles obviously depend on terminal env, the main thing is just having the window splitting and destruction keybinds I like.
